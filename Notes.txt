@@ -6,3 +6,13 @@ LinkedIn Clone
 2. Create a firebase project.
 	Create a firebase project on firsebase, use firestore database, setup the hosting and enable email and passwords under
 	authentication section.
+
+3. .Start the build.
+	Components - 1. Header, 2. Body. 3. Sidebar, 4. Feed, 5. Widgets.
+
+4. The Header Component
+	contains two further components - 1. header--left 2.header--right
+
+4. Install Material UI
+	"npm install @material-ui/core"
+	material ui is a design library for React. In this project, we are using material ui for icons.
