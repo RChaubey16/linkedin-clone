@@ -1,0 +1,8 @@
+LinkedIn Clone
+
+1. npx create-react-app linkedin-clone --template redux
+	Creates a react app and also gives us a starting point/template for redux.
+
+2. Create a firebase project.
+	Create a firebase project on firsebase, use firestore database, setup the hosting and enable email and passwords under
+	authentication section.
