@@ -1,5 +1,6 @@
 import React from "react";
 import "./HeaderOption.css";
+// Getting the avatar component from material ui
 import { Avatar } from "@material-ui/core";
 
 function HeaderOptions({ avatar, Icon, title }) {

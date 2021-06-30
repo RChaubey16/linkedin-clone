@@ -12,7 +12,15 @@ LinkedIn Clone
 
 4. The Header Component
 	contains two further components - 1. header--left 2.header--right
+	( Note: A component can be as small as a icon as well.)
 
-4. Install Material UI
+5. Install Material UI
 	"npm install @material-ui/core"
 	material ui is a design library for React. In this project, we are using material ui for icons.
+
+6. The header component completed
+
+7. The sidebar component completed
+	We can use functions to create some repetitve JSX code.
+
+8. The feed (center) Component
