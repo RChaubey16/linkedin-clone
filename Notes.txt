@@ -26,3 +26,14 @@ LinkedIn Clone  - Checkpoint : 1:37
 8. The feed (center) Component
 	-Create Post Section done
 	-Post List or Posts display section (ongoing)
+	- useEffect hook, allows us to fire off the code when the feed (or that particular component) loads on the screen. 
+	-It allows us to fire it off whenever the component re-renders if we dont pass a second argument.
+	- If we pass in a blank dependency then the useEffect will fire off only once when the component loads and not after that.
+
+
+
+
+
+
+
+
